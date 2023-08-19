@@ -1,1 +1,1 @@
-### All of the following projects is related to the cource 'java 2' in JIC ###
+### All of the projects above are related to the cource 'Programming II' (CS 231) in JIC ###
